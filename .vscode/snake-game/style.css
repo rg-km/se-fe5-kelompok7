@@ -1,0 +1,34 @@
+.judulgame {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: yellow; */
+}
+
+.game-snake {
+  display: flex;
+  position: relative;
+  justify-content: center;
+
+  /* background-color: black; */
+}
+.game-snake {
+  margin-top: 10px;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  /* background-color: red; */
+}
+
+.score-snake {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.score {
+  margin: 15px 15px 15px 15px;
+  /* background-color: green; */
+}
